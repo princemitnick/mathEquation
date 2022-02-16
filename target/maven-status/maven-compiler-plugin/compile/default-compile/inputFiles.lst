@@ -1,6 +1,15 @@
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/service/rectangle/RectangleIntr.java
 /home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/equation/CalculateBase.java
 /home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/equation/Adder.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/model/Etudiant.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/service/calculator/Calculator.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/service/etudiant/EtudiantServiceImpl.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/model/Rectangle.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/service/rectangle/RectangleImpl.java
 /home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/equation/Multiplier.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/model/Level.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/service/calculator/CalculatorImpl.java
+/home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/service/etudiant/EtudiantService.java
 /home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/equation/Substracter.java
 /home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/equation/Divider.java
 /home/princemitnick/IdeaProjects/mathEquation/src/main/java/org/prince/math/equation/Main.java

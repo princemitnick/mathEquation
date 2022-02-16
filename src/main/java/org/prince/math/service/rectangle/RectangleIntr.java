@@ -1,13 +1,10 @@
 package org.prince.math.service.rectangle;
 
-public interface Calculator {
+import org.prince.math.model.Rectangle;
 
-    public Double add(double a, double b);
-    public Double subs(double a, double b);
-    public Double mult(double a, double b);
-    public Double div(double a, double b);
+public interface RectangleIntr {
 
-
-
+    public Double surface(Rectangle rectangle);
+    public Double perimetre(Rectangle rectangle);
 
 }

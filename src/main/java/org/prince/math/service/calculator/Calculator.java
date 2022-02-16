@@ -1,4 +1,4 @@
-package org.prince.math.equation.service;
+package org.prince.math.service.calculator;
 
 public interface Calculator {
 
