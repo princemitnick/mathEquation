@@ -25,8 +25,7 @@ public class Main  {
         System.out.println(etudiantService.findAll());
         System.out.println("Prince Stanley");
         System.out.println("ZLDEV");
-        System.out.println("Test 1.1.1.1");
-
+        System.out.println("Author: Jean Baptiste Prince Stanley Lovensky J");
     }
 
     /*public static void doCalculation (CalculateBase calculation, double leftValue, double rightvalue){
