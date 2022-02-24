@@ -23,6 +23,8 @@ public class Main  {
         //System.out.println(rectangle.surface(new Rectangle(4.0d, 2.0d)));
         etudiantService.add(null);
         System.out.println(etudiantService.findAll());
+        System.out.println("Prince Stanley");
+        System.out.println("Testing...");
 
     }
 
